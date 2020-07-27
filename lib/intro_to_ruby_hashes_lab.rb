@@ -4,14 +4,13 @@ end
 
 def my_hash
   {
-    [:name] => "Matthew"
+    :name => "Matthew"
   }
 end
 
 def pioneer
-  {
-    pioneer =
-    [:name] => "Grace Hopper"
+  pioneer = {
+    :name => "Grace Hopper"
   }
 end
 
